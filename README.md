@@ -22,7 +22,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=dark)](https://github.com/SaraMegumi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=tokyonight)](https://github.com/SaraMegumi)
 
 
 
