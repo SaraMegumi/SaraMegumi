@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Stats
 
-[![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=dark)](https://github.com/SaraMegumi)
+[![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=dark)]
                                                                                                                   
 
 
