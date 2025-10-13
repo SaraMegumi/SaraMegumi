@@ -7,19 +7,25 @@
 
 <div align="center">
 
-***
+ ***
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight" alt="Sara's GitHub Stats"/>
-      </td>
+### 📊 GitHub Stats
 
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
-      </td>
-    </tr>
-  </table>
+
+
+![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight) 
+
+
+
+### 💻 Linguagens Mais Usadas
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=dark)](https://github.com/SaraMegumi)
+
+
+
+
 
 ***
 
