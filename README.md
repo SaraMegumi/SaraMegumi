@@ -5,7 +5,7 @@
 
 ###### Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
 
-
+***
 ### 📊 GitHub Stats
 
 ![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight) 
