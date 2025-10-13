@@ -1,4 +1,4 @@
-# Olá, eu sou a Sara Megumi! 🌸😊
+ Olá, eu sou a Sara Megumi! 🌸😊
 ## Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
 
 
