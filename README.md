@@ -7,7 +7,11 @@
 
 ### 📊 GitHub Stats
 
-![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight)                                                                                                       
+![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight) 
+
+### 💻 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=dark)](https://github.com/SaraMegumi)
 
 
 ***
