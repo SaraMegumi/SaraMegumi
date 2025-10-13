@@ -6,6 +6,11 @@
 ###### Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
 
 <div align="center">
+### 🎓 Formação Acadêmica
+
+###### Bacharel em Sistemas de Informação, Universidade Federal Grande Dourados (maio/2023 – maio/2027)
+
+ ***
 
 
 ### 📊 GitHub Stats
@@ -42,11 +47,7 @@
 
 ---
 
-### 🎓 Formação Acadêmica
 
-###### Bacharel em Sistemas de Informação, Universidade Federal Grande Dourados (maio/2023 – maio/2027)
-
- ***
 
 ## 🤝 Conecte-se Comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saramegumi)
