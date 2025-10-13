@@ -1,3 +1,4 @@
+<div align="center">
  ## Olá, eu sou a Sara Megumi! 🌸😊
 
 ###### Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
@@ -7,7 +8,7 @@
 ###### Bacharel em Sistemas de Informação, Universidade Federal Grande Dourados (maio/2023 – maio/2027)
 
  ***
-
+</div>
 
 ### 📊 GitHub Stats
 
