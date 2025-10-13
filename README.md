@@ -1,4 +1,5 @@
- #Olá, eu sou a Sara Megumi! 🌸😊
+<div align="center">
+# Olá, eu sou a Sara Megumi! 🌸😊
 
 Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
 
@@ -13,6 +14,6 @@ Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saramegumi)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](megumisarasakai@gmail.com)
 
-
+<div align="center">
 
 
