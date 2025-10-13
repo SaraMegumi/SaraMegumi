@@ -5,6 +5,20 @@
 
 ###### Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=dark" alt="Sara's GitHub Stats"/>
+      </td>
+
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
+      </td>
+    </tr>
+  </table>
+  </div>
+
 ### 📊 GitHub Stats
 
 ![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight) 
