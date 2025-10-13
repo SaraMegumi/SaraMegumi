@@ -1,4 +1,4 @@
-Hi, I'm Sara Megumi! 
+Olá, eu sou a Sara Megumi! 🌸😊
 
 
 ## 💻 Tech Stack Principal
