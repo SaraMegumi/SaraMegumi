@@ -1,8 +1,13 @@
 <div align="center">
 
- ## Olá, eu sou a Sara Megumi! 🌸😊
+ ## Olá, eu sou a Sara Megumi 👋☁️
 
-###### Desenvolvedora Full-Stack em crescimento, focada no ecossistema PHP/Laravel e na construção de interfaces de usuário escaláveis com tecnologias JavaScript/TypeScript. Apaixonada por transformar ideias em aplicações web funcionais e robustas.
+Sou estudante de Sistemas de Informação e estagiária de TI na Justiça Federal de Dourados, com atuação em suporte, infraestrutura e redes em ambiente corporativo.
+Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, estou em processo de formação em Cloud Computing, com foco em AWS, realizando projetos práticos envolvendo infraestrutura em nuvem, redes, segurança e containers.
+
+🎯 Busco minha primeira oportunidade nas áreas de Cloud Júnior, Infraestrutura, DevOps ou Desenvolvimento, onde eu possa aplicar e evoluir meus conhecimentos técnicos.
+
+---
 
 ## 🎓 Formação Acadêmica
 
@@ -28,10 +33,13 @@
 
 
 ***
-## 💻 Tech Stack Principal
+## ☁️ Cloud & Infra
+<img src="https://skillicons.dev/icons?i=aws,linux,docker" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" width="100" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+## 💻 Tech Stack Principal
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,postgres" />
+
+
 ***
 
 ### 💼 Experiência Profissional
