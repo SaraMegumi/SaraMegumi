@@ -17,11 +17,13 @@ Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=SaraMegumi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraMegumi&theme=tokyonight" alt="GitHub Profile Summary" />
 
 ### 💻 Linguagens Mais Usadas
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaraMegumi&theme=tokyonight" alt="Repos per Language" />
 
 ---
 
