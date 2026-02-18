@@ -1,6 +1,6 @@
 <div align="center">
 
- ## Olá, eu sou a Sara Megumi 👋☁️
+## Olá, eu sou a Sara Megumi 👋☁️
 
 Sou estudante de Sistemas de Informação e estagiária de TI na Justiça Federal de Dourados, com atuação em suporte, infraestrutura e redes em ambiente corporativo.
 Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, estou em processo de formação em Cloud Computing, com foco em AWS, realizando projetos práticos envolvendo infraestrutura em nuvem, redes, segurança e containers.
@@ -13,34 +13,27 @@ Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, 
 
 ###### Bacharel em Sistemas de Informação, Universidade Federal Grande Dourados (maio/2023 – maio/2027)
 
- ***
+---
 
 ### 📊 GitHub Stats
 
-
-
-![SaraMegumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight) 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 ### 💻 Linguagens Mais Usadas
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=compact&theme=tokyonight)](https://github.com/SaraMegumi)
-
-
-
-
-***
 ## ☁️ Cloud & Infra
+
 <img src="https://skillicons.dev/icons?i=aws,linux,docker" />
 
 ## 💻 Tech Stack Principal
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,postgres" />
 
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,react,postgres" />
 
-***
+---
 
 ### 💼 Experiência Profissional
 
@@ -52,12 +45,9 @@ Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, 
 
 ---
 
+## 🤝 Conecte-se Comigo
 
-
-## 🤝 Conecte-se Comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saramegumi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarasakaisantos)
 
-
 </div>
-
