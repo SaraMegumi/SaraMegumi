@@ -2,10 +2,10 @@
 
 ## Olá, eu sou a Sara Megumi 👋☁️
 
-Sou estudante de Sistemas de Informação e estagiária de TI na Justiça Federal de Dourados, com atuação em suporte, infraestrutura e redes em ambiente corporativo.
-Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, estou em processo de formação em Cloud Computing, com foco em AWS, realizando projetos práticos envolvendo infraestrutura em nuvem, redes, segurança e containers.
+Acadêmica de Sistemas de Informação com atuação híbrida entre o desenvolvimento de software e a infraestrutura de TI. Na Caristeo Tecnologia, atuo como Full Stack, desenvolvendo soluções modernas com tecnologias como React, Node.js e Prisma. Simultaneamente, na Justiça Federal de Dourados, sou responsável pelo suporte e manutenção de infraestrutura e redes em ambiente corporativo.
 
-🎯 Busco minha primeira oportunidade nas áreas de Cloud Júnior, Infraestrutura, DevOps ou Desenvolvimento, onde eu possa aplicar e evoluir meus conhecimentos técnicos.
+Minha experiência une a entrega de código de qualidade à compreensão profunda de redes, containers e segurança, permitindo uma visão holística e técnica sobre o ciclo de vida das aplicações.
+
 
 ---
 
@@ -33,19 +33,10 @@ Tenho interesse em desenvolvimento Full Stack, análise de dados e, atualmente, 
 
 ## 💻 Tech Stack Principal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,react,postgres" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,nodejs,express,postgres,prisma" />
 
 ---
 
-### 💼 Experiência Profissional
-
-| Período | Cargo & Empresa | Destaques & Contribuições |
-| :--- | :--- | :--- |
-| **Julho/2025 – Atual** | **Estagiária de TI – Justiça Federal** | 🔹 Desenvolvimento de soluções internas para otimizar a rotina dos servidores. <br>🔹 Suporte à infraestrutura de redes, manutenção e configuração de equipamentos. <br>🔹 Participação em projetos de automatização, monitoramento de rede e infraestrutura. |
-| **Dez/2024 – Julho/2025** | **Analista Júnior Temporária – Inpasa** | 🔹 Atuação em **Business Intelligence (BI)** e desenvolvimento de **dashboards interativos no Power BI**. <br>🔹 Extração, tratamento e análise de dados, com foco em otimização de KPIs. <br>🔹 Automatização de processos manuais utilizando fórmulas avançadas e fluxos. |
-| **Maio/2023 – Maio/2024** | **Estagiária de Tecnologia – IPTECH** | 🔹 Apoio pedagógico em aulas de **Programação em C para Arduino** e **Lógica de Programação em Python**. <br>🔹 Desenvolvimento de projetos integrados de tecnologia, promovendo a assimilação de conteúdos técnicos. <br>🔹 Suporte e acompanhamento de alunos em projetos de iniciação tecnológica. |
-
----
 
 ## 🤝 Conecte-se Comigo
 
