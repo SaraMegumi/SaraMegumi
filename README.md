@@ -3,14 +3,14 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        こんにちは！ Hi, I'm Sara Megumi 🌸☁️                 ║
+║        こんにちは！ Hi, I'm Sara Megumi 🌸                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 Full Stack Developer · ☁️ Infra & Cloud · 🎓 CS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full+Stack+Dev+%40+Caristeo+Tecnologia;Infra+%26+Networks+%40+Federal+Justice+of+Dourados;React+%7C+Node.js+%7C+TypeScript+%7C+Prisma;Information+Systems+%E2%80%94+UFGD+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=Full+Stack+Dev+%40+Caristeo+Tecnologia;Infra+%26+Networks+%40+Federal+Justice+of+Dourados;React+%7C+Node.js+%7C+TypeScript+%7C+Prisma;Information+Systems+%E2%80%94+UFGD+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 </div>
 
@@ -37,17 +37,30 @@ const sara: Developer = {
 
 ## 💻 Tech Stack
 
-#### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
-
-#### ⚙️ Back-end & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-
-#### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,linux,docker" />
-
-#### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td valign="top">
+      🌐 <b>Front-end</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+    </td>
+    <td valign="top">
+      ⚙️ <b>Back-end & Database</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,laravel,php" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      ☁️ <b>Cloud & Infrastructure</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+    </td>
+    <td valign="top">
+      🛠️ <b>Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -55,24 +68,14 @@ const sara: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraMegumi&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7" alt="Contribution Graph" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6EE7B7&icon_color=FDA4AF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&title_color=6EE7B7&exclude_repo="/>
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=c084fc"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&title_color=7aa2f7&exclude_repo="/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SaraMegumi&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=c084fc&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SaraMegumi&theme=tokyonight&hide_border=true&ring=6EE7B7&fire=FDA4AF&currStreakLabel=6EE7B7" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🌟 Featured Projects
-
-> 🚧 *Pinning my best work soon — stay tuned!*
 
 ---
 
@@ -94,6 +97,6 @@ const sara: Developer = {
 
 *"Code is poetry written in logic."* 🌸
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SaraMegumi&color=7aa2f7&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=SaraMegumi&color=FDA4AF&style=flat-square&label=Profile+Views)
 
 </div>
