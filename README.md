@@ -62,22 +62,6 @@ const sara: Developer = {
 </table>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SaraMegumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=6EE7B7&icon_color=FDA4AF"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMegumi&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&title_color=6EE7B7&exclude_repo="/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SaraMegumi&theme=tokyonight&hide_border=true&ring=6EE7B7&fire=FDA4AF&currStreakLabel=6EE7B7" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
