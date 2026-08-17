@@ -1,20 +1,18 @@
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        こんにちは！ Hi, I'm Sara Megumi 🌸                 ║
+║              こんにちは！ Hi, I'm Sara Megumi 🌸             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 ### 💻 Full Stack Developer · ☁️ Infra & Cloud · 🎓 CS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=Full+Stack+Dev+%40+ASdev;Infra+%26+Networks+%40+Federal+Justice+of+Dourados;React+%7C+Node.js+%7C+TypeScript+%7C+PHP+%7C+Laravel;Information+Systems+%E2%80%94+UFGD+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=Full+Stack+Dev+%40+ASdev;Infra+%26+Networks+%40+Federal+Justice+of+Dourados;React+%7C+Node.js+%7C+TypeScript+%7C+PHP+%7C+Laravel;Information+Systems+%E2%80%94+UFGD+%F0%9F%87%A7%F0%87%B7" alt="Typing SVG" />
 
 </div>
-
----
 
 ## 🌸 About Me
 
